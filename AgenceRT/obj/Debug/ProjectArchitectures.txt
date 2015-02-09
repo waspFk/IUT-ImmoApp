@@ -1,0 +1,2 @@
+C:\Users\lp\Desktop\Cours WinRT 3\AgenceRT\AgenceEntites\AgenceEntites.csproj;neutral
+C:\Users\lp\Desktop\Cours WinRT 3\AgenceRT\AgenceRT\AgenceRT.csproj;neutral
